@@ -49,6 +49,9 @@ Write SQL queries to perform the following tasks using the Sakila database:
 1. Determine the number of copies of the film "Hunchback Impossible" that exist in the inventory system.
 2. List all films whose length is longer than the average length of all the films in the Sakila database.
 3. Use a subquery to display all actors who appear in the film "Alone Trip".
+
+**Bonus**:
+
 4. Sales have been lagging among young families, and you want to target family movies for a promotion. Identify all movies categorized as family films. 
 5. Retrieve the name and email of customers from Canada using both subqueries and joins. To use joins, you will need to identify the relevant tables and their primary and foreign keys.
 6. Determine which films were starred by the most prolific actor in the Sakila database. A prolific actor is defined as the actor who has acted in the most number of films. First, you will need to find the most prolific actor and then use that actor_id to find the different films that he or she starred in.
